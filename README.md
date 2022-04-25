@@ -15,6 +15,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - - - -
 ### Check out some of my projects:
+- ### Dark net scraper
+[Monorepo](https://github.com/EhoodGoren/dark-net-scraper)
 - #### Dictionary:
 [Frontend](https://github.com/EhoodGoren/dictionary-client) | 
 [Backend](https://github.com/EhoodGoren/dictionary)
